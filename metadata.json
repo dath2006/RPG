@@ -1,0 +1,6 @@
+{
+  "name": "Productivity Economy",
+  "description": "An RPG-style productivity economy that tracks focal work, distractions, and applies taxes/rewards to keep you disciplined.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
